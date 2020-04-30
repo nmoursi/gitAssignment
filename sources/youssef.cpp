@@ -2,6 +2,6 @@
 
 void youssefAgiza()
 {
-std::cout<<"\nName: Youssef Agiza\n"
-	<<"\nEmail:youssefagiza@aucegypt.edu\n";
+std::cout<<"Name: Youssef Agiza\n"
+	<<"Email:youssefagiza@aucegypt.edu\n";
 }

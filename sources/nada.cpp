@@ -1,13 +1,7 @@
 #include "nada.h"
-void nada(){
-
-
-cout<<"this is nada"<<endl;
+void nada()
+{
+std::cout<<"Name: Nada Moursi"<<std::endl
+<< "Email: nmoursi@aucegypt.edu\n";
 }
 
-int main{
-
-
-nada;
-return 0;
-}

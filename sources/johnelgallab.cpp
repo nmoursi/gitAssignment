@@ -1,6 +1,8 @@
-#include "headers/johnelgallab.h"
-int main()
+#include "johnelgallab.h"
+
+void printJohnName()
 {
-printJohnName();
-return 0;
+    std::cout<<"Name: John Elgallab"<<std::endl 
+            <<"Email: john.elgallab@aucegypt.edu"<<std::endl;
+
 }
