@@ -1,1 +1,11 @@
-READ ME
+This is a README:
+Member names:
+Youssef Agiza
+Nada Moursi
+John El Gallab
+To build this main just type make
+To output the results of the building process enter the bin directory
+then ./main into the terminal to run the executable 
+Have FUN:)
+
+Best...
